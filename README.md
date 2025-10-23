@@ -36,6 +36,7 @@ Each team member creates their own HTML file containing:
 | [Name 3] | [@username3](https://github.com/username3) | Developer |
 | [Name 4] | [@username4](https://github.com/username4) | Developer |
 | [Ait Ahmed Lamara Hassane] | [@kastorhass](https://github.com/kastorhass) | Developer |
+| [oussama guerroudj | [oussamaguerroudj](https://github.com/oussamaguerroudj) | Developer |
 
 ##  Deployment
 
