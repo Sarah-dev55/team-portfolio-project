@@ -37,7 +37,7 @@ Each team member creates their own HTML file containing:
 | [Gougam Lina] | [@Lina-Gougam](https://github.com/Lina-Gougam) | Developer |
 | Toubal Mohamed Sahnoune | [mohameddddt](https://github.com/mohameddddt) | Developer |
 | [oussama guerroudj | [oussamaguerroudj](https://github.com/oussamaguerroudj) | Developer |
-
+| [Kacher Ahmed Ouassim] |[OuassimKacher] (https://github.com/OuassimKacher) | Developer |
 ##  Deployment
 
 The website will be deployed using **GitHub Pages**.
