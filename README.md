@@ -41,7 +41,7 @@ Each team member creates their own HTML file containing:
 ##  Deployment
 
 The website will be deployed using **GitHub Pages**.
-
+Link: https://sarah-dev55.github.io/team-portfolio-project/
 ---
 
 
@@ -54,6 +54,15 @@ The website will be deployed using **GitHub Pages**.
 | 1.0 | 10/21/2025 | Repository initialized and README created |
 
 ---
+## Team Retrospective Analysis
+
+The most significant technical challenge our team faced during the project was related to merging branches and resolving conflicts. Since multiple members were working on the same repository simultaneously, we frequently encountered merge conflicts—especially within shared files like index.html. Managing these conflicts required careful coordination and consistent communication among team members.
+
+To solve conflicts effectively, we compared the old and new versions of the code side by side using Git’s diff tool and Visual Studio Code’s merge editor. This allowed us to clearly see what each teammate had changed and decide which parts to keep or combine. Each time a conflict appeared, we reviewed both versions, discussed the changes if necessary, and manually merged the relevant sections to preserve everyone’s contributions. This process helped us understand the importance of version control discipline and the need to pull the latest updates before committing new changes.
+
+Pull requests also played a crucial role in improving our workflow and the final result. By using pull requests, we could track each member’s progress, review their code before merging, and comment directly on specific sections when something needed clarification or improvement. This system not only helped us catch small errors or missing details early but also ensured that everyone stayed aware of ongoing changes in the repository. As a result, we could identify potential merge conflicts earlier and resolve them more efficiently.
+
+Overall, this experience strengthened our understanding of collaborative development practices. We learned that effective communication, consistent updates, and structured pull request reviews are key to maintaining a clean and stable codebase when multiple developers work together.
 
 ### Authors
 Created collaboratively by the **Team of Portfolio Project Group**.
