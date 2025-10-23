@@ -33,7 +33,7 @@ Each team member creates their own HTML file containing:
 |------|-----------------|------|
 | [Ameziane Sarah] | [Sarah-dev55](https://github.com/Sarah-dev55) | Team Lead |
 | [Name 2] | [@username2](https://github.com/username2) | Developer |
-| [Name 3] | [@username3](https://github.com/username3) | Developer |
+| Toubal Mohamed Sahnoune | [mohameddddt](https://github.com/mohameddddt) | Developer |
 | [Name 4] | [@username4](https://github.com/username4) | Developer |
 
 ##  Deployment
