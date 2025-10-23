@@ -36,8 +36,8 @@ Each team member creates their own HTML file containing:
 | [oussama guerroudj | [oussamaguerroudj](https://github.com/oussamaguerroudj) | Developer |
 | [Gougam Lina] | [@Lina-Gougam](https://github.com/Lina-Gougam) | Developer |
 | Toubal Mohamed Sahnoune | [mohameddddt](https://github.com/mohameddddt) | Developer |
-| [Name 4] | [@username4](https://github.com/username4) | Developer 
-
+| [oussama guerroudj | [oussamaguerroudj](https://github.com/oussamaguerroudj) | Developer |
+| [Kacher Ahmed Ouassim] |[OuassimKacher] (https://github.com/OuassimKacher) | Developer |
 ##  Deployment
 
 The website will be deployed using **GitHub Pages**.
@@ -56,4 +56,4 @@ The website will be deployed using **GitHub Pages**.
 ---
 
 ### Authors
-Created collaboratively by the **Team Leader of Portfolio Project Group**.
+Created collaboratively by the **Team of Portfolio Project Group**.
